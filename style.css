@@ -11,7 +11,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(imagenes/fondo-lista-de-tareas.jpg);
+  background-image: url(imagen/fondo-lista-de-tareas.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
